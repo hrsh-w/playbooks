@@ -1,3 +1,12 @@
 1 - Testing some commit: 
 
 Malware analysis plays a crucial role in such scenarios. It is the science and art of determining what a binary actually does, not what it pretends to do.
+
+2) Testing 2nd commit:
+
+some tools:
+    SpiderMonkey, cscript, and box-js help deobfuscate JavaScript that you extract from document files.
+    Use the debugger built into Microsoft Office to deobfuscate macros in an isolated lab.
+    Use AMSIScriptContentRetrieval.ps1 to observe Microsoft Office execute macros in an isolated lab.
+    Some automated analysis sandboxes can analyze aspects of malicious document files.
+    REMnux distro includes many of the free document analysis tools mentioned above.
